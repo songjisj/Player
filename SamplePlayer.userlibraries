@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="/tmp/xsxs/SamplePlayer/lib/jetty-all-7.0.2.v20100331.jar" />
+    <archive path="/tmp/xsxs/SamplePlayer/lib/servlet-api-2.5.jar" />
+    <archive path="/tmp/xsxs/SamplePlayer/lib/junit-4.4.jar" />
+  </library>
+</eclipse-userlibraries>
+
